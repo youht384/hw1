@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">m927</string>
+    <string name="buttonText">登入</string>
+    <string name="ButtonOnClickMessage">waiting．．．</string>
+    <string name="logoutMessage">登出</string>
+    <string name="passwordText">密碼</string>
+    <string name="accountText">帳號</string>
+    <string name="registered">註冊</string>
+
+</resources>
